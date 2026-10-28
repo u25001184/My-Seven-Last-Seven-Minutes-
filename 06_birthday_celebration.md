@@ -1,4 +1,4 @@
-<img src="birthday.jpg.png" alt="Joint Birthday Celebration" width="500"/>
+<img src="images/birthday.jpg.png" alt="Joint Birthday Celebration" width="500"/>
 # 📸 21st & 57th Joint Birthday Celebration at John Dory's
 
 <table>
