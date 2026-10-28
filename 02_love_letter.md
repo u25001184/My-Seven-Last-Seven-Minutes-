@@ -1,4 +1,4 @@
-<img src="letter.jpg.jpeg" alt="A Love Letter to Myself" width="500"/>
+<img src="images/letter.jpg.jpeg" alt="A Love Letter to Myself" width="500"/>
 # 📝 A Love Letter to Myself: Overcoming Imposter Syndrome
 
 <table>
