@@ -1,3 +1,4 @@
+<img src="lehakwe.jpg.jpeg" alt="Personalities and Growth Sketch" width="500"/>
 # 🎨 Personalities and Growth
 
 <table>
@@ -50,7 +51,7 @@
     </tr>
     <tr>
       <td bgcolor="#FFE6F0"><b>Format</b></td>
-      <td>image/png</td>
+      <td><a href="lehakwe.jpg">View High-Res Sketch (lehakwe.jpg)</a></td>
     </tr>
     <tr>
       <td bgcolor="#FFE6F0"><b>Language</b></td>
