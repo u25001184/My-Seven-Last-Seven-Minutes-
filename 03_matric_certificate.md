@@ -1,4 +1,4 @@
-📄 <b>[Click here to view/download Matric Certificate PDF](matric_certificate.pdf.pdf)</b>
+📄 <b>[Click here to view/download Matric Certificate PDF](documents/matric_certificate.pdf.pdf)</b>
 # 📜 Matric Certificate
 
 <table>
