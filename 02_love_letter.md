@@ -1,3 +1,4 @@
+<img src="letter.jpg" alt="A Love Letter to Myself" width="500"/>
 # 📝 A Love Letter to Myself: Overcoming Imposter Syndrome
 
 <table>
@@ -50,7 +51,7 @@
     </tr>
     <tr>
       <td bgcolor="#FFE6F0"><b>Format</b></td>
-      <td>image/jpeg</td>
+      <td><a href="letter.jpg">View Original Image (letter.jpg)</a></td> 
     </tr>
     <tr>
       <td bgcolor="#FFE6F0"><b>Language</b></td>
