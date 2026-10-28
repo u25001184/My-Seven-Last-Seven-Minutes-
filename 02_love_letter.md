@@ -52,7 +52,7 @@
     </tr>
     <tr>
       <td bgcolor="#FFE6F0"><b>Format</b></td>
-      <td><a href="images/letter.jpg.jpeg">View Original Image (letter.jpg.jpeg)</a></td>
+      <td><a href="images/letter.jpg">View Original Image (letter.jpg.jpeg)</a></td>
     </tr>
     <tr>
       <td bgcolor="#FFE6F0"><b>Language</b></td>
