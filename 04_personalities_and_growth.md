@@ -1,4 +1,4 @@
-<img src="lehakwe.jpg.jpeg" alt="Personalities and Growth Sketch" width="500"/>
+<img src="images/lehakwe.jpg.jpeg" alt="Personalities and Growth Sketch" width="500"/>
 # 🎨 Personalities and Growth
 
 <table>
