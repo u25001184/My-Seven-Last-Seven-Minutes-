@@ -1,3 +1,6 @@
+<video controls width="500">
+  <source src="daddies_girls.mp4.mp4" type="video/mp4">
+</video>
 # 🎥 Daddies Girls
 
 <table>
@@ -50,7 +53,7 @@
     </tr>
     <tr>
       <td bgcolor="#FFE6F0"><b>Format</b></td>
-      <td>MP4</td>
+      <td><a href="daddies_girls.mp4">Download Video File (daddies_girls.mp4)</a></td>
     </tr>
     <tr>
       <td bgcolor="#FFE6F0"><b>Language</b></td>
