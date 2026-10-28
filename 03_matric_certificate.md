@@ -1,3 +1,4 @@
+📄 <b>[Click here to view/download Matric Certificate PDF](matric_certificate.pdf.pdf)</b>
 # 📜 Matric Certificate
 
 <table>
@@ -50,7 +51,7 @@
     </tr>
     <tr>
       <td bgcolor="#FFE6F0"><b>Format</b></td>
-      <td>pdf</td>
+      <td><a href="matric_certificate.pdf">Download Document (matric_certificate.pdf)</a></td>
     </tr>
     <tr>
       <td bgcolor="#FFE6F0"><b>Language</b></td>
