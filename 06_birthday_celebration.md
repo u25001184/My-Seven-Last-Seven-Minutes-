@@ -1,3 +1,4 @@
+<img src="birthday.jpg" alt="Joint Birthday Celebration" width="500"/>
 # 📸 21st & 57th Joint Birthday Celebration at John Dory's
 
 <table>
@@ -50,7 +51,7 @@
     </tr>
     <tr>
       <td bgcolor="#FFE6F0"><b>Format</b></td>
-      <td>image/jpeg</td>
+      <td><a href="birthday.jpg">View Full Photo (birthday.jpg)</a></td>
     </tr>
     <tr>
       <td bgcolor="#FFE6F0"><b>Language</b></td>
