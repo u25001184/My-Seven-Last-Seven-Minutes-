@@ -1,4 +1,4 @@
-🎥 **[Click here to watch / play video: Daddies Girls](daddies_girls.mp4.mp4)**
+🎥 **[Click here to watch / download video file: Daddies Girls](videos/daddies_girls.mp4.mp4)**
 # 🎥 Daddies Girls
 
 <table>
